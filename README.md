@@ -1,2 +1,2 @@
 # hello-world
-練習
+練習2
